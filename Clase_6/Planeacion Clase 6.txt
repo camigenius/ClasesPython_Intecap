@@ -1,6 +1,0 @@
-Funciones
-Diccionarios
-Numpy
-Pandas
-
-
